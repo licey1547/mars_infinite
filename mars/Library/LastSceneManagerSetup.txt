@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/map mars.unity
+- path: Assets/Scenes/grow_communitys.unity
   isLoaded: 1
   isActive: 1
